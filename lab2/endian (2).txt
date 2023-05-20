@@ -1,0 +1,27 @@
+    /*
+    - little endian
+
+    w     w+1
+    |     |        wskazniki na short (word)
+    [1][0][m][s]
+    |  |           wskazniki na char (byte)
+    b  b+1
+
+    w -> [1][0]  *w = 1
+
+    b   -> [1]   *b     = 1
+    b+1 -> [0]   *(b+1) = 0
+
+    - big endian
+
+    w     w+1
+    |     |        wskazniki na short (word)
+    [0][1][s][m]
+    |  |           wskazniki na char (byte)
+    b  b+1
+
+    w -> [0][1]   *w = 1
+
+    b   -> [0]   *b     = 0
+    b+1 -> [1]   *(b+1) = 1
+    */

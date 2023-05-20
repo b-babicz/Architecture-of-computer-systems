@@ -1,0 +1,10 @@
+Jaki obszar pamięci można zaadresować przy pomocy adresów 16, 20, 24, 32, 40, 48 i 64 bitowych? 
+
+
+Przy pomocy adresu 16 bitowego można zaadresować obszar pamięci 2^16 bitów.
+Przy pomocy adresu 20 bitowego można zaadresować obszar pamięci 2^20 bitów.
+Przy pomocy adresu 24 bitowego można zaadresować obszar pamięci 2^24 bitów.
+Przy pomocy adresu 32 bitowego można zaadresować obszar pamięci 2^32 bitów.
+Przy pomocy adresu 40 bitowego można zaadresować obszar pamięci 2^40 bitów.
+Przy pomocy adresu 48 bitowego można zaadresować obszar pamięci 2^48 bitów.
+Przy pomocy adresu 64 bitowego można zaadresować obszar pamięci 2^64 bitów.
